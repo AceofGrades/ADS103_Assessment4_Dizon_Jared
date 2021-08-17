@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\dizon\Documents\GitHub\ADS103_Assessment4_Dizon_Jared\Game.h(85,19): warning C4101: 'k': unreferenced local variable
+C:\Users\dizon\Documents\GitHub\ADS103_Assessment4_Dizon_Jared\Game.h(201,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dizon\Documents\GitHub\ADS103_Assessment4_Dizon_Jared\Game.h(204,1): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  main.cpp
+C:\Users\dizon\Documents\GitHub\ADS103_Assessment4_Dizon_Jared\Game.h(85,19): warning C4101: 'k': unreferenced local variable
+C:\Users\dizon\Documents\GitHub\ADS103_Assessment4_Dizon_Jared\Game.h(201,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\dizon\Documents\GitHub\ADS103_Assessment4_Dizon_Jared\Game.h(204,1): warning C4267: '=': conversion from 'size_t' to 'char', possible loss of data
+  Generating Code...
+  ADS103_Assessment4_Dizon_Jared.vcxproj -> C:\Users\dizon\Documents\GitHub\ADS103_Assessment4_Dizon_Jared\x64\Debug\ADS103_Assessment4_Dizon_Jared.exe
