@@ -1,9 +1,11 @@
+// Code referenced here, made changes to try and not make it the same: https://pencilprogrammer.com/cpp-programs/tic-tac-toe-game/
 #include <iostream>
 #include <list>
 #include <cstdlib>
 #include <string>
 #include <ctime>
 #include "Player.h"
+#include <windows.h>
 #pragma once
 
 using namespace std;
@@ -69,7 +71,7 @@ private:
         pos -= 1;
         if (emptyIndex[pos] == 1)
         {
-            cout << "-----Spot already filled-----" << endl;
+            cout << "-----That won't work. Please try again-----" << endl;
             playerInput(player);
         }
         else
